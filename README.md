@@ -20,4 +20,4 @@ Plase for this repository
 
 ### Copyright
 
-Copyright
+Copyright. All rights reserved
